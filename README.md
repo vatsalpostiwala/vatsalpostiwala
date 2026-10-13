@@ -64,21 +64,27 @@ public class VatsalPostiwala {
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/Vatsalposty/anti-phishing-backend">🛡️ Anti-Phishing AI Guard</a></h3>
-      <p>An intelligent, real-time security browser extension and backend API designed to detect phishing and malicious websites before user navigation.</p>
+      <h3><a href="https://chromewebstore.google.com/detail/anti-phishing-ai-guard/hacojgdkakkkjlbiakmdnigchjlaikkh">🛡️ Anti-Phishing AI Guard</a></h3>
+      <p>An intelligent, real-time security browser extension and backend API designed to detect phishing and malicious websites before user navigation — <strong>live on the Chrome Web Store</strong>.</p>
       <p>
+        <a href="https://chromewebstore.google.com/detail/anti-phishing-ai-guard/hacojgdkakkkjlbiakmdnigchjlaikkh" target="_blank">
+          <img src="https://img.shields.io/badge/Chrome_Web_Store-Available_Now-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store" />
+        </a>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/XGBoost-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Chrome_Extension_V3-yellow?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Manifest_V3-yellow?style=flat-square" />
         <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat-square&logo=firebase&logoColor=black" />
       </p>
       <ul>
-        <li><strong>Pre-Navigation URL Inspection:</strong> Intercepts web navigation requests via Chrome Extension (Manifest V3) to protect users from malicious pages.</li>
+        <li><strong>Pre-Navigation URL Inspection:</strong> Intercepts web navigation requests via Chrome Extension (Manifest V3) to protect users from malicious pages in real-time.</li>
         <li><strong>Layered Threat Detection:</strong> Integrates a trained <strong>XGBoost ML model</strong>, domain heuristics, server-side content checks, and live <strong>PhishTank API</strong> queries.</li>
         <li><strong>Scalable Cloud Backend:</strong> Built with <strong>FastAPI & Uvicorn</strong> featuring structured logging, rate-limiting, and Firebase integration.</li>
       </ul>
-      <p>🔗 <strong>Repository:</strong> <a href="https://github.com/Vatsalposty/anti-phishing-backend">github.com/Vatsalposty/anti-phishing-backend</a></p>
+      <p>
+        🌐 <strong>Chrome Web Store:</strong> <a href="https://chromewebstore.google.com/detail/anti-phishing-ai-guard/hacojgdkakkkjlbiakmdnigchjlaikkh">Install Anti-Phishing AI Guard</a> &nbsp;|&nbsp;
+        💻 <strong>Source Code:</strong> <a href="https://github.com/Vatsalposty/anti-phishing-backend">github.com/Vatsalposty/anti-phishing-backend</a>
+      </p>
     </td>
   </tr>
 </table>
