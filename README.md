@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://github.com/vatsalposty01">
+<a href="https://github.com/vatsalpostiwala">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Vatsal+Postiwala;Software+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
 </a>
 
@@ -9,8 +9,8 @@
 
 <!-- Quick Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vatsal--postiwala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-postiwala)
-[![GitHub](https://img.shields.io/badge/GitHub-vatsalposty01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vatsalposty01)
-[![Profile Views](https://komarev.com/ghpvc/?username=vatsalposty01&style=for-the-badge&color=blue)](https://github.com/vatsalposty01)
+[![GitHub](https://img.shields.io/badge/GitHub-vatsalpostiwala-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vatsalpostiwala)
+[![Profile Views](https://komarev.com/ghpvc/?username=vatsalpostiwala&style=for-the-badge&color=blue)](https://github.com/vatsalpostiwala)
 
 </div>
 
@@ -64,7 +64,7 @@ public class VatsalPostiwala {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/vatsalposty01/JAVA">☕ JAVA</a></h3>
+      <h3><a href="https://github.com/vatsalpostiwala/JAVA">☕ JAVA</a></h3>
       <p>Core Java — OOP principles, Collections, Multithreading, Exception Handling, and Data Structure implementations.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -73,7 +73,7 @@ public class VatsalPostiwala {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/vatsalposty01/DBMS">🗃️ DBMS</a></h3>
+      <h3><a href="https://github.com/vatsalpostiwala/DBMS">🗃️ DBMS</a></h3>
       <p>SQL queries, normalization, ER diagrams, relational algebra, and transaction management.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -84,7 +84,7 @@ public class VatsalPostiwala {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/vatsalposty01/FCC_APP">🌐 FCC_APP</a></h3>
+      <h3><a href="https://github.com/vatsalpostiwala/FCC_APP">🌐 FCC_APP</a></h3>
       <p>Frontend web application with responsive UI using HTML, CSS, and JavaScript.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -110,11 +110,11 @@ public class VatsalPostiwala {
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalposty01&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalpostiwala&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="70%" />
 
   <br /><br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalposty01&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalpostiwala&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 
 </div>
 
@@ -125,7 +125,7 @@ public class VatsalPostiwala {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-postiwala)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vatsalposty01)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vatsalpostiwala)
 
 </div>
 
