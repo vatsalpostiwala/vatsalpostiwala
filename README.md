@@ -17,12 +17,12 @@
 
 ### 🧑‍💻 About Me
 
-Software Engineer with hands-on experience in **Java**, **Python**, **C**, **Web Development**, and core CS subjects — **DSA**, **DBMS**, and **Operating Systems**. I build clean, documented code and focus on understanding systems from the ground up.
+Software Engineer with hands-on experience in **Python**, **Java**, **Web Development**, and core CS subjects — **Data Structures & Algorithms**, **DBMS**, and **Operating Systems**. I build clean, documented code and focus on understanding systems from the ground up.
 
 ```java
 public class VatsalPostiwala {
     String role       = "Software Engineer";
-    String[] skills   = {"Java", "Python", "C", "SQL", "HTML/CSS/JS", "FastAPI"};
+    String[] skills   = {"Python", "Java", "C", "SQL", "HTML/CSS/JS", "FastAPI"};
     String[] studying = {"System Design", "Advanced DSA", "Cybersecurity"};
     boolean  hireable = true;
 }
@@ -30,7 +30,7 @@ public class VatsalPostiwala {
 
 - 🎯 **Seeking** — SDE roles and internships
 - 🔥 **Currently** — Building full-stack & AI-driven applications, practicing DSA
-- 💬 **Ask me about** — Java, Python, C, Data Structures, SQL, OS concepts
+- 💬 **Ask me about** — Python, Java, FastAPI, Data Structures, SQL, System Concepts
 
 ---
 
@@ -38,10 +38,10 @@ public class VatsalPostiwala {
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -51,7 +51,6 @@ public class VatsalPostiwala {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
@@ -60,48 +59,26 @@ public class VatsalPostiwala {
 
 ---
 
-### 📂 Projects
+### 🚀 Featured Project
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td>
       <h3><a href="https://github.com/Vatsalposty/anti-phishing-backend">🛡️ Anti-Phishing AI Guard</a></h3>
-      <p>Real-time phishing detection Chrome extension & FastAPI backend powered by ML (XGBoost), URL heuristics, and PhishTank lookup.</p>
+      <p>An intelligent, real-time security browser extension and backend API designed to detect phishing and malicious websites before user navigation.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/XGBoost-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Chrome_Extension-yellow?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chrome_Extension_V3-yellow?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat-square&logo=firebase&logoColor=black" />
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vatsalpostiwala/JAVA">☕ JAVA</a></h3>
-      <p>Core Java — OOP principles, Collections, Multithreading, Exception Handling, and Data Structure implementations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/OOP-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Collections-green?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vatsalpostiwala/DBMS">🗃️ DBMS</a></h3>
-      <p>SQL queries, normalization, ER diagrams, relational algebra, and transaction management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Normalization-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/ER_Diagrams-orange?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vatsalpostiwala/FCC_APP">🌐 FCC_APP</a></h3>
-      <p>Frontend web application with responsive UI using HTML, CSS, and JavaScript.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
+      <ul>
+        <li><strong>Pre-Navigation URL Inspection:</strong> Intercepts web navigation requests via Chrome Extension (Manifest V3) to protect users from malicious pages.</li>
+        <li><strong>Layered Threat Detection:</strong> Integrates a trained <strong>XGBoost ML model</strong>, domain heuristics, server-side content checks, and live <strong>PhishTank API</strong> queries.</li>
+        <li><strong>Scalable Cloud Backend:</strong> Built with <strong>FastAPI & Uvicorn</strong> featuring structured logging, rate-limiting, and Firebase integration.</li>
+      </ul>
+      <p>🔗 <strong>Repository:</strong> <a href="https://github.com/Vatsalposty/anti-phishing-backend">github.com/Vatsalposty/anti-phishing-backend</a></p>
     </td>
   </tr>
 </table>
