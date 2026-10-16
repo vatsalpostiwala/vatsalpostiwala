@@ -83,7 +83,7 @@ public class VatsalPostiwala {
       </ul>
       <p>
         🌐 <strong>Chrome Web Store:</strong> <a href="https://chromewebstore.google.com/detail/anti-phishing-ai-guard/hacojgdkakkkjlbiakmdnigchjlaikkh">Install Anti-Phishing AI Guard</a> &nbsp;|&nbsp;
-        💻 <strong>Source Code:</strong> <a href="https://github.com/Vatsalposty/anti-phishing-backend">github.com/Vatsalposty/anti-phishing-backend</a>
+        💻 <strong>Source Code:</strong> <a href="https://github.com/vatsalpostiwala/anti-phishing-backend">github.com/vatsalpostiwala/anti-phishing-backend</a>
       </p>
     </td>
   </tr>
