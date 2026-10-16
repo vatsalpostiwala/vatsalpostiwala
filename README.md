@@ -10,6 +10,7 @@
 <!-- Quick Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vatsal--postiwala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-postiwala)
 [![GitHub](https://img.shields.io/badge/GitHub-vatsalpostiwala-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vatsalpostiwala)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7965--0995-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7965-0995)
 
 </div>
 
@@ -107,6 +108,7 @@ public class VatsalPostiwala {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-postiwala)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vatsalpostiwala)
+[![ORCID](https://img.shields.io/badge/ORCID-Researcher_Record-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7965-0995)
 
 </div>
 
