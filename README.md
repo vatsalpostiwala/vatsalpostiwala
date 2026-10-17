@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 align="center">Vatsal Postiwala</h1>
-<p align="center"><strong>Software Engineer (CSE • AI/ML • Cybersecurity) • B.Tech CSE @ SIT Pune • Creator of Anti-Phishing AI Guard</strong></p>
+<p align="center"><strong>Computer Science Engineer • Open to Internships (CSE / AI-ML / Cyber / SDE) • B.Tech CSE @ SIT Pune</strong></p>
 
 <!-- Animated Typing Header -->
 <a href="https://vatsalpostiwala.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi+%F0%9F%91%8B+I'm+Vatsal+Postiwala;Software+Engineer+(CSE+%E2%80%A2+AI%2FML+%E2%80%A2+Cyber);Open+to+Internships+(CSE+%2F+AI-ML+%2F+Cyber);Creator+of+Anti-Phishing+AI+Guard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi+%F0%9F%91%8B+I'm+Vatsal+Postiwala;Computer+Science+Engineer;Open+to+Internships+(CSE+%2F+AI-ML+%2F+Cyber+%2F+SDE);Creator+of+Anti-Phishing+AI+Guard" alt="Typing SVG" />
 </a>
 
 <br />
@@ -23,22 +23,23 @@
 
 ### 🧑‍💻 About Me
 
-Software Engineer pursuing B.Tech in Computer Science & Engineering at **Symbiosis Institute of Technology (SIT), Pune** (Batch 2025–2029). 
+Computer Science & Engineering undergraduate at **Symbiosis Institute of Technology (SIT), Pune** (Batch 2025–2029). Actively open to **engineering internships** across Computer Science, AI/ML, Cybersecurity, and Software Development.
 
-- 🎯 **Open to Internships:** Actively exploring opportunities across **CSE / SDE**, **AI/ML**, and **Cybersecurity** to build, learn, and discover high-impact domains.
+- 🎯 **Status:** **Open to Internships** (CSE • AI/ML • Cyber • SDE)
 - 🌐 **Portfolio Website:** [vatsalpostiwala.github.io](https://vatsalpostiwala.github.io)
 - 🚀 **Flagship Project:** Creator of [Anti-Phishing AI Guard](https://chromewebstore.google.com/detail/anti-phishing-ai-guard/hacojgdkakkkjlbiakmdnigchjlaikkh) on the Chrome Web Store (FastAPI + XGBoost ML on Render Cloud)
 - 📜 **Certified Qualification:** NCVET & IT-ITeS SSC NASSCOM NSQF Level 5 Application Developer Web & Mobile (540 Hrs, 18 Credits)
-- 💼 **Industry Background:** Ex-Flutter Intern at Leaf Drive IT Solution
-- 💬 **Ask me about:** Python, FastAPI, Java, DSA, SQL, Flutter, Machine Learning & Cybersecurity Heuristics
+- 💼 **Industry Background:** Ex-Intern at Leaf Drive IT Solution
+- 💬 **Ask me about:** Python, FastAPI, Java, DSA, SQL, Cybersecurity Heuristics, Flutter, and Full-Stack Architecture
 
 ```java
 public class VatsalPostiwala {
-    String role       = "Software Engineer (CSE • AI/ML • Cyber)";
+    String role       = "Computer Science Engineer";
     String university = "Symbiosis Institute of Technology (SIT), Pune";
+    String status     = "Open to Internships (CSE / AI-ML / Cyber / SDE)";
     String portfolio  = "https://vatsalpostiwala.github.io";
-    String[] domains  = {"Software Engineering", "AI/ML", "Cybersecurity", "Mobile/Web"};
-    boolean  hireable = true; // Open to Internships
+    String[] domains  = {"Software Engineering", "AI/ML Systems", "Cybersecurity", "Full-Stack & Mobile"};
+    boolean  hireable = true;
 }
 ```
 
