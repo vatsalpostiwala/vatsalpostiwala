@@ -1,16 +1,21 @@
 <div align="center">
 
+<h1 align="center">Vatsal Postiwala</h1>
+<p align="center"><strong>Software Engineer &amp; Flutter Developer • B.Tech CSE @ SIT Pune • Creator of Anti-Phishing AI Guard</strong></p>
+
 <!-- Animated Typing Header -->
-<a href="https://github.com/vatsalpostiwala">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Vatsal+Postiwala;Software+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
+<a href="https://vatsalpostiwala.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Hi+%F0%9F%91%8B+I'm+Vatsal+Postiwala;Software+Engineer+%26+Flutter+Developer;Creator+of+Anti-Phishing+AI+Guard" alt="Typing SVG" />
 </a>
 
 <br />
 
 <!-- Quick Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-vatsalpostiwala.github.io-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vatsalpostiwala.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vatsal--postiwala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-postiwala)
 [![GitHub](https://img.shields.io/badge/GitHub-vatsalpostiwala-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vatsalpostiwala)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7965--0995-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7965-0995)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Anti--Phishing_AI_Guard-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/anti-phishing-ai-guard/hacojgdkakkkjlbiakmdnigchjlaikkh)
 
 </div>
 
@@ -18,20 +23,23 @@
 
 ### 🧑‍💻 About Me
 
-Software Engineer with hands-on experience in **Python**, **Java**, **Web Development**, and core CS subjects — **Data Structures & Algorithms**, **DBMS**, and **Operating Systems**. I build clean, documented code and focus on understanding systems from the ground up.
+Software Engineer & Flutter Developer pursuing B.Tech in Computer Science & Engineering at **Symbiosis Institute of Technology (SIT), Pune** (Batch 2025–2029).
+
+- 🌐 **Portfolio Website:** [vatsalpostiwala.github.io](https://vatsalpostiwala.github.io)
+- 🚀 **Flagship Project:** Creator of [Anti-Phishing AI Guard](https://chromewebstore.google.com/detail/anti-phishing-ai-guard/hacojgdkakkkjlbiakmdnigchjlaikkh) on the Chrome Web Store (FastAPI + XGBoost ML on Render Cloud)
+- 📜 **Certified Qualification:** NCVET & IT-ITeS SSC NASSCOM NSQF Level 5 Application Developer Web & Mobile (540 Hrs, 18 Credits)
+- 💼 **Industry Background:** Ex-Flutter Intern at Leaf Drive IT Solution
+- 💬 **Ask me about:** Flutter, Dart, Python, FastAPI, Java, DSA, SQL, Cybersecurity Heuristics
 
 ```java
 public class VatsalPostiwala {
-    String role       = "Software Engineer";
-    String[] skills   = {"Python", "Java", "C", "SQL", "HTML/CSS/JS", "FastAPI"};
-    String[] studying = {"System Design", "Advanced DSA", "Cybersecurity"};
+    String role       = "Software Engineer & Flutter Developer";
+    String university = "Symbiosis Institute of Technology (SIT), Pune";
+    String portfolio  = "https://vatsalpostiwala.github.io";
+    String[] skills   = {"Flutter", "Dart", "Python", "FastAPI", "Java", "SQL", "DSA"};
     boolean  hireable = true;
 }
 ```
-
-- 🎯 **Seeking** — SDE roles and internships
-- 🔥 **Currently** — Building full-stack & AI-driven applications, practicing DSA
-- 💬 **Ask me about** — Python, Java, FastAPI, Data Structures, SQL, System Concepts
 
 ---
 
@@ -106,6 +114,7 @@ public class VatsalPostiwala {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-vatsalpostiwala.github.io-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vatsalpostiwala.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-postiwala)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vatsalpostiwala)
 [![ORCID](https://img.shields.io/badge/ORCID-Researcher_Record-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7965-0995)
