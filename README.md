@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 align="center">Vatsal Postiwala</h1>
-<p align="center"><strong>Software Engineer &amp; Flutter Developer • B.Tech CSE @ SIT Pune • Creator of Anti-Phishing AI Guard</strong></p>
+<p align="center"><strong>Software Engineer (CSE • AI/ML • Cybersecurity) • B.Tech CSE @ SIT Pune • Creator of Anti-Phishing AI Guard</strong></p>
 
 <!-- Animated Typing Header -->
 <a href="https://vatsalpostiwala.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Hi+%F0%9F%91%8B+I'm+Vatsal+Postiwala;Software+Engineer+%26+Flutter+Developer;Creator+of+Anti-Phishing+AI+Guard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi+%F0%9F%91%8B+I'm+Vatsal+Postiwala;Software+Engineer+(CSE+%E2%80%A2+AI%2FML+%E2%80%A2+Cyber);Open+to+Internships+(CSE+%2F+AI-ML+%2F+Cyber);Creator+of+Anti-Phishing+AI+Guard" alt="Typing SVG" />
 </a>
 
 <br />
@@ -23,21 +23,22 @@
 
 ### 🧑‍💻 About Me
 
-Software Engineer & Flutter Developer pursuing B.Tech in Computer Science & Engineering at **Symbiosis Institute of Technology (SIT), Pune** (Batch 2025–2029).
+Software Engineer pursuing B.Tech in Computer Science & Engineering at **Symbiosis Institute of Technology (SIT), Pune** (Batch 2025–2029). 
 
+- 🎯 **Open to Internships:** Actively exploring opportunities across **CSE / SDE**, **AI/ML**, and **Cybersecurity** to build, learn, and discover high-impact domains.
 - 🌐 **Portfolio Website:** [vatsalpostiwala.github.io](https://vatsalpostiwala.github.io)
 - 🚀 **Flagship Project:** Creator of [Anti-Phishing AI Guard](https://chromewebstore.google.com/detail/anti-phishing-ai-guard/hacojgdkakkkjlbiakmdnigchjlaikkh) on the Chrome Web Store (FastAPI + XGBoost ML on Render Cloud)
 - 📜 **Certified Qualification:** NCVET & IT-ITeS SSC NASSCOM NSQF Level 5 Application Developer Web & Mobile (540 Hrs, 18 Credits)
 - 💼 **Industry Background:** Ex-Flutter Intern at Leaf Drive IT Solution
-- 💬 **Ask me about:** Flutter, Dart, Python, FastAPI, Java, DSA, SQL, Cybersecurity Heuristics
+- 💬 **Ask me about:** Python, FastAPI, Java, DSA, SQL, Flutter, Machine Learning & Cybersecurity Heuristics
 
 ```java
 public class VatsalPostiwala {
-    String role       = "Software Engineer & Flutter Developer";
+    String role       = "Software Engineer (CSE • AI/ML • Cyber)";
     String university = "Symbiosis Institute of Technology (SIT), Pune";
     String portfolio  = "https://vatsalpostiwala.github.io";
-    String[] skills   = {"Flutter", "Dart", "Python", "FastAPI", "Java", "SQL", "DSA"};
-    boolean  hireable = true;
+    String[] domains  = {"Software Engineering", "AI/ML", "Cybersecurity", "Mobile/Web"};
+    boolean  hireable = true; // Open to Internships
 }
 ```
 
